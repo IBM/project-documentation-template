@@ -126,7 +126,7 @@ const config = {
         // title: "My Site",
         logo: {
           alt: "IBM Logo",
-          src: "img/ibm-icon.png",
+          src: "img/IBM_logo_white.svg",
         },
         items: [
           {
