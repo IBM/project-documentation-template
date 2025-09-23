@@ -45,7 +45,7 @@ export default function Welcome() {
           <div className="ibm-links">
             <h3>Explore IBM Open Source</h3>
             <ul>
-              <li><a href="https://www.ibm.com/opensource/projects" target="_blank" rel="noopener noreferrer">Featured Projects</a></li>
+              <li><a href="https://www.ibm.com/opensource/#build-future" target="_blank" rel="noopener noreferrer">Featured Projects</a></li>
               <li><a href="https://www.ibm.com/cloud/watson" target="_blank" rel="noopener noreferrer">Watson AI</a></li>
               <li><a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank" rel="noopener noreferrer">Red Hat OpenShift</a></li>
               <li><a href="https://www.ibm.com/cloud/kubernetes-service" target="_blank" rel="noopener noreferrer">Kubernetes Service</a></li>
